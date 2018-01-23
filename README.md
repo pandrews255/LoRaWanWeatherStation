@@ -1,6 +1,6 @@
 # LoRaWanWeatherStation
 <h2>Introduction</h2>
-<p>This is an example of a nice LoRa application. The weather station contains a temperature sensor, air pressure sensor and humidity sensor. The data is read out and sent to Cayenne Mydevices and Weather Underground using LoRa and The Things Network.</p>
+<p>In the process of changing this to a Pro Micro and a BME280.  This is an example of a nice LoRa application. The weather station contains a temperature sensor, air pressure sensor and humidity sensor. The data is read out and sent to Cayenne Mydevices and Weather Underground using LoRa and The Things Network.</p>
 <p><img alt="file" src="https://ttnstaticfile.blob.core.windows.net/media/md_editor/image-1508417779575.large.png"><br>
 <img alt="file" src="https://ttnstaticfile.blob.core.windows.net/media/md_editor/image-1508417844287.large.png"></p>
                 
